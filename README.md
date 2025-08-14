@@ -20,9 +20,11 @@ Este proyecto es una aplicación web de carrito de compras desarrollada con HTML
 ## 🚀 Cómo ejecutar
 
 1. Clona este repositorio en tu máquina local:
+
 ```bash
 git clone https://github.com/IvanaaCastillo/carritodecompra.git
 cd carritodecompra
+```
 
 2. Abre el archivo index.html en tu navegador preferido.
 
